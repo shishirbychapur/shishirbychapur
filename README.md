@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Shishir Bychapur! 👋
+[![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishirbychapur)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shishirbychapur/shishirbychapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
